@@ -1,0 +1,3 @@
+[submodule "Plugins/UE_JoyLibrary"]
+	path = Plugins/UE_JoyLibrary
+	url = https://github.com/Grouflon/UE_JoyLibrary
